@@ -1,0 +1,67 @@
+2026-10-28 21:47:49,516 [INFO] [EnterpriseLeadETL]: Starting Enterprise B2B Pipeline: 50 targets, concurrency=6
+2026-10-28 21:47:49,620 [INFO] [EnterpriseLeadETL]: Validated lead #1: AeroDynamics Logic [aerodynamics-logic.com]
+2026-10-28 21:47:49,652 [WARNING] [EnterpriseLeadETL]: Target #5 hit HTTP 429. Backing off for 0.57s (Attempt 1/3)
+2026-10-28 21:47:49,655 [INFO] [EnterpriseLeadETL]: Validated lead #3: CloudScale Systems [cloudscalesystems.com]
+2026-10-28 21:47:49,701 [INFO] [EnterpriseLeadETL]: Validated lead #4: AeroDynamics Logic [aerodynamics-logic.com]
+2026-10-28 21:47:49,704 [INFO] [EnterpriseLeadETL]: Validated lead #6: BioSynth Analytics [biosynth-analytics.org]
+2026-10-28 21:47:49,706 [INFO] [EnterpriseLeadETL]: Validated lead #2: Veritas Health Systems [veritas-health.net]
+2026-10-28 21:47:49,750 [INFO] [EnterpriseLeadETL]: Validated lead #8: HyperVolt Energy [hypervoltenergy.com]
+2026-10-28 21:47:49,753 [INFO] [EnterpriseLeadETL]: Validated lead #11: Global Matrix Global [globalmatrix.co]
+2026-10-28 21:47:49,753 [INFO] [EnterpriseLeadETL]: Validated lead #10: Quantum Ledger [quantum-ledger.finance]
+2026-10-28 21:47:49,753 [WARNING] [EnterpriseLeadETL]: Quarantined target #7 [PYDANTIC_VALIDATION]: domain: Value error, Invalid domain syntax: 'htt p://invalid:domain'; phone: Value error, Phone number too short or invalid: ''; email: Value error, Malformed or non-compliant email: ''
+2026-10-28 21:47:49,852 [WARNING] [EnterpriseLeadETL]: Quarantined target #14 [PYDANTIC_VALIDATION]: phone: Value error, Phone number too short or invalid: ''; email: Value error, Malformed or non-compliant email: ''
+2026-10-28 21:47:49,852 [WARNING] [EnterpriseLeadETL]: Target #9 hit HTTP 429. Backing off for 0.56s (Attempt 1/3)
+2026-10-28 21:47:49,855 [INFO] [EnterpriseLeadETL]: Validated lead #15: Quantum Ledger [quantum-ledger.finance]
+2026-10-28 21:47:49,857 [INFO] [EnterpriseLeadETL]: Validated lead #13: Global Matrix Global [globalmatrix.co]
+2026-10-28 21:47:49,859 [INFO] [EnterpriseLeadETL]: Validated lead #12: Global Matrix Global [globalmatrix.co]
+2026-10-28 21:47:49,920 [INFO] [EnterpriseLeadETL]: Validated lead #17: CloudScale Systems 17 [cloudscalesystems.com]
+2026-10-28 21:47:49,924 [INFO] [EnterpriseLeadETL]: Validated lead #19: CloudScale Systems 19 [cloudscalesystems.com]
+2026-10-28 21:47:49,924 [WARNING] [EnterpriseLeadETL]: Target #16 hit HTTP 429. Backing off for 0.55s (Attempt 1/3)
+2026-10-28 21:47:50,001 [INFO] [EnterpriseLeadETL]: Validated lead #18: DeepCognition AI 18 [deepcognition.ai]
+2026-10-28 21:47:50,085 [INFO] [EnterpriseLeadETL]: Validated lead #20: BioSynth Analytics 20 [biosynth-analytics.org]
+2026-10-28 21:47:50,085 [WARNING] [EnterpriseLeadETL]: Quarantined target #21 [DOM_PARSING]: Corrupted DOM: Target company name is absent or empty
+2026-10-28 21:47:50,187 [INFO] [EnterpriseLeadETL]: Validated lead #22: Global Matrix Global 22 [globalmatrix.co]
+2026-10-28 21:47:50,233 [INFO] [EnterpriseLeadETL]: Validated lead #24: BioSynth Analytics 24 [biosynth-analytics.org]
+2026-10-28 21:47:50,267 [INFO] [EnterpriseLeadETL]: Validated lead #23: Global Matrix Global 23 [globalmatrix.co]
+2026-10-28 21:47:50,350 [INFO] [EnterpriseLeadETL]: Validated lead #25: PulsePoint Systems 25 [pulsepoint-sys.com]
+2026-10-28 21:47:50,352 [INFO] [EnterpriseLeadETL]: Validated lead #26: Stratum FinOps 26 [stratum-finops.com]
+2026-10-28 21:47:50,354 [INFO] [EnterpriseLeadETL]: Validated lead #27: Veritas Health Systems 27 [veritas-health.net]
+2026-10-28 21:47:50,384 [WARNING] [EnterpriseLeadETL]: Target #5 hit HTTP 429. Backing off for 0.95s (Attempt 2/3)
+2026-10-28 21:47:50,417 [INFO] [EnterpriseLeadETL]: Validated lead #29: PulsePoint Systems 29 [pulsepoint-sys.com]
+2026-10-28 21:47:50,451 [WARNING] [EnterpriseLeadETL]: Quarantined target #28 [PYDANTIC_VALIDATION]: phone: Value error, Phone number too short or invalid: ''; email: Value error, Malformed or non-compliant email: ''
+2026-10-28 21:47:50,484 [INFO] [EnterpriseLeadETL]: Validated lead #30: CloudScale Systems 30 [cloudscalesystems.com]
+2026-10-28 21:47:50,499 [WARNING] [EnterpriseLeadETL]: Target #31 hit HTTP 429. Backing off for 0.61s (Attempt 1/3)
+2026-10-28 21:47:50,533 [WARNING] [EnterpriseLeadETL]: Target #9 hit HTTP 429. Backing off for 0.85s (Attempt 2/3)
+2026-10-28 21:47:50,533 [INFO] [EnterpriseLeadETL]: Validated lead #32: Synergy Cloud AI 32 [synergycloud.tech]
+2026-10-28 21:47:50,617 [INFO] [EnterpriseLeadETL]: Validated lead #16: Vanguard Risk Solutions 16 [vanguard-risk.com]
+2026-10-28 21:47:50,617 [INFO] [EnterpriseLeadETL]: Validated lead #34: Synergy Cloud AI 34 [synergycloud.tech]
+2026-10-28 21:47:50,617 [WARNING] [EnterpriseLeadETL]: Target #33 hit HTTP 429. Backing off for 0.55s (Attempt 1/3)
+2026-10-28 21:47:50,681 [WARNING] [EnterpriseLeadETL]: Target #36 hit HTTP 429. Backing off for 0.65s (Attempt 1/3)
+2026-10-28 21:47:50,681 [WARNING] [EnterpriseLeadETL]: Target #35 hit HTTP 429. Backing off for 0.53s (Attempt 1/3)
+2026-10-28 21:47:51,217 [WARNING] [EnterpriseLeadETL]: Target #31 hit HTTP 429. Backing off for 0.86s (Attempt 2/3)
+2026-10-28 21:47:51,238 [WARNING] [EnterpriseLeadETL]: Target #33 hit HTTP 429. Backing off for 0.85s (Attempt 2/3)
+2026-10-28 21:47:51,349 [WARNING] [EnterpriseLeadETL]: Target #35 hit HTTP 429. Backing off for 1.01s (Attempt 2/3)
+2026-10-28 21:47:51,461 [WARNING] [EnterpriseLeadETL]: Target #36 hit HTTP 429. Backing off for 0.86s (Attempt 2/3)
+2026-10-28 21:47:51,484 [INFO] [EnterpriseLeadETL]: Validated lead #9: Veritas Health Systems [veritas-health.net]
+2026-10-28 21:47:51,484 [INFO] [EnterpriseLeadETL]: Validated lead #5: Vanguard Risk Solutions [vanguard-risk.com]
+2026-10-28 21:47:51,551 [INFO] [EnterpriseLeadETL]: Validated lead #38: BioSynth Analytics 38 [biosynth-analytics.org]
+2026-10-28 21:47:51,582 [WARNING] [EnterpriseLeadETL]: Target #37 hit HTTP 429. Backing off for 0.49s (Attempt 1/3)
+2026-10-28 21:47:51,665 [INFO] [EnterpriseLeadETL]: Validated lead #39: PulsePoint Systems 39 [pulsepoint-sys.com]
+2026-10-28 21:47:51,819 [INFO] [EnterpriseLeadETL]: Validated lead #40: Apex CyberGuard 40 [apexcyberguard.io]
+2026-10-28 21:47:51,900 [INFO] [EnterpriseLeadETL]: Validated lead #41: Sentinel Data Labs 41 [sentinel-datalabs.io]
+2026-10-28 21:47:52,049 [WARNING] [EnterpriseLeadETL]: Quarantined target #42 [PYDANTIC_VALIDATION]: domain: Value error, Invalid domain syntax: ''; employee_count: Value error, Employee count must be positive; phone: Value error, Phone number too short or invalid: ''; email: Value error, Malformed or non-compliant email: ''; annual_revenue: Value error, Invalid monetary revenue specification: 'N/A'
+2026-10-28 21:47:52,137 [INFO] [EnterpriseLeadETL]: Validated lead #37: CloudScale Systems 37 [cloudscalesystems.com]
+2026-10-28 21:47:52,168 [INFO] [EnterpriseLeadETL]: Validated lead #33: Vanguard Risk Solutions 33 [vanguard-risk.com]
+2026-10-28 21:47:52,171 [INFO] [EnterpriseLeadETL]: Validated lead #43: Vanguard Risk Solutions 43 [vanguard-risk.com]
+2026-10-28 21:47:52,253 [INFO] [EnterpriseLeadETL]: Validated lead #31: DeepCognition AI 31 [deepcognition.ai]
+2026-10-28 21:47:52,257 [INFO] [EnterpriseLeadETL]: Validated lead #44: Synergy Cloud AI 44 [synergycloud.tech]
+2026-10-28 21:47:52,269 [INFO] [EnterpriseLeadETL]: Validated lead #45: Vanguard Risk Solutions 45 [vanguard-risk.com]
+2026-10-28 21:47:52,349 [INFO] [EnterpriseLeadETL]: Validated lead #46: CloudScale Systems 46 [cloudscalesystems.com]
+2026-10-28 21:47:52,352 [WARNING] [EnterpriseLeadETL]: Quarantined target #49 [PYDANTIC_VALIDATION]: phone: Value error, Phone number too short or invalid: ''; email: Value error, Malformed or non-compliant email: ''
+2026-10-28 21:47:52,352 [INFO] [EnterpriseLeadETL]: Validated lead #47: Global Matrix Global 47 [globalmatrix.co]
+2026-10-28 21:47:52,416 [INFO] [EnterpriseLeadETL]: Validated lead #48: AeroDynamics Logic 48 [aerodynamics-logic.com]
+2026-10-28 21:47:52,416 [WARNING] [EnterpriseLeadETL]: Target #50 hit HTTP 429. Backing off for 0.64s (Attempt 1/3)
+2026-10-28 21:47:52,450 [WARNING] [EnterpriseLeadETL]: Quarantined target #35 [DOM_PARSING]: Corrupted DOM: Target company name is absent or empty
+2026-10-28 21:47:52,453 [INFO] [EnterpriseLeadETL]: Validated lead #36: CloudScale Systems 36 [cloudscalesystems.com]
+2026-10-28 21:47:53,134 [INFO] [EnterpriseLeadETL]: Validated lead #50: Vanguard Risk Solutions 50 [vanguard-risk.com]
+2026-10-28 21:47:53,276 [INFO] [EnterpriseLeadETL]: Successfully generated structured Excel workbook: C:\Users\Anas\.gemini\antigravity-ide\scratch\b2b-lead-pipeline\leads_validated.xlsx (43 leads)
